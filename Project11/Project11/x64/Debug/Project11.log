@@ -1,0 +1,4 @@
+﻿  FileName.cpp
+D:\vs c++\repos\Project11\Project11\FileName.cpp(8,10): warning C4477: “scanf_s”: 格式字符串“%[^\n]”需要类型“unsigned int”的参数，但可变参数 2 拥有了类型“size_t”
+D:\vs c++\repos\Project11\Project11\FileName.cpp(8,10): message : 此参数用作缓冲区大小
+  Project11.vcxproj -> D:\vs c++\repos\Project11\x64\Debug\Project11.exe
